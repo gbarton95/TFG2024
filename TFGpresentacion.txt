@@ -2,7 +2,7 @@
 [[Aunque algunas personas encuentran desacertada la comparación entre niños y perros, como titulada tanto en magisterio como en educación canina me parece que hay una correlación directa que confluye en la empatía, el interés por el bienestar ajeno, el respeto a un ser más vulnerable y diferente, la capacidad de autocrítica o la gestión emocional, entre otros aspectos.]]
 
 Revisar TFG:
-Pocas referencias al BOA, clarificar
+Pocas referencias al BOA, clarificar!!!!!!!!!!!!!!
 Perfilar mockups para poder enseñar en presentación la parte del usuario
 Priorizar y/o introducir nivel de prioridad en RF y RNF
 
