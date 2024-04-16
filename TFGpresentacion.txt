@@ -1,0 +1,24 @@
+
+[[Aunque algunas personas encuentran desacertada la comparación entre niños y perros, como titulada tanto en magisterio como en educación canina me parece que hay una correlación directa que confluye en la empatía, el interés por el bienestar ajeno, el respeto a un ser más vulnerable y diferente, la capacidad de autocrítica o la gestión emocional, entre otros aspectos.]]
+
+Revisar TFG:
+Pocas referencias al BOA, clarificar
+Perfilar mockups para poder enseñar en presentación la parte del usuario
+Priorizar y/o introducir nivel de prioridad en RF y RNF
+
+
+
+
+Interfaz:
+Login y barra de navegacion (ref: hablaconellos)
+Incluir 'venta del producto' (quiénes somos, a qué nos dedicamos...)
+Login: ventana modal o poner boton volver
+Cookies en la aplicación y NO en la landing page
+Recursos: abrir tareas para el adiestrador con limitación de tamaño
+Cancelación de la suscripción de los adiestradores
+
+
+CENTRARSE EN LA FUNCIONALIDAD DEL ADIESTRADOR
+
+
+Powerpoint-> Historias Usuario-> Requisitos funcionales/no funcionales
