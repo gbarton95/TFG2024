@@ -8,6 +8,9 @@ Priorizar y/o introducir nivel de prioridad en RF y RNF
 
 
 
+CAMBIAR 'ILUSTRACIÓN' A 'FIGURA'
+ACLARAR UN TONO LAS TABLAS
+
 
 Interfaz:
 Login y barra de navegacion (ref: hablaconellos)
@@ -22,3 +25,16 @@ CENTRARSE EN LA FUNCIONALIDAD DEL ADIESTRADOR
 
 
 Powerpoint-> Historias Usuario-> Requisitos funcionales/no funcionales
+
+SVG repo para simbolicos
+
+
+
+
+Quitar llamada múltiple de grupo a la sesión de perros
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!No hacer powerpoint, hacer html!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
