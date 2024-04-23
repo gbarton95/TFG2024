@@ -1,3 +1,4 @@
 1. Creado estructura Laravel
-2. Creado migraciones tablas (perro, adiestrador, propietarios, eventos)
+2. Creado migraciones tablas
 3. Lógica SESIONES-PERROS-GRUPOS
+4. Modelos y relaciones
