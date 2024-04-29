@@ -1,16 +1,17 @@
+Dudas:
+- Anexos. ¿Cabecera? ¿Formato?
+- Pliego de condiciones == Condiciones de contratación???
+- ¿Espaciado 1,5?
+
+
+
 
 [[Aunque algunas personas encuentran desacertada la comparación entre niños y perros, como titulada tanto en magisterio como en educación canina me parece que hay una correlación directa que confluye en la empatía, el interés por el bienestar ajeno, el respeto a un ser más vulnerable y diferente, la capacidad de autocrítica o la gestión emocional, entre otros aspectos.]]
+[[Todos los perros pueden ser entrenados y educados en la medida de sus capacidades. La educación es un proceso, no un objetivo, y no hay ningún perro que no pueda beneficiarse de ella.]]
 
 Revisar TFG:
-Pocas referencias al BOA, clarificar!!!!!!!!!!!!!!
-Perfilar mockups para poder enseñar en presentación la parte del usuario
-Priorizar y/o introducir nivel de prioridad en RF y RNF
-
-
-
-CAMBIAR 'ILUSTRACIÓN' A 'FIGURA'
-ACLARAR UN TONO LAS TABLAS
-
+Revisa esos enlaces y antes de ponerme una citación, sitúame y ponme en contexto.
+Tamaños de imagen (ancho) lo más parecido posible.
 
 Interfaz:
 Login y barra de navegacion (ref: hablaconellos)
@@ -21,20 +22,4 @@ Recursos: abrir tareas para el adiestrador con limitación de tamaño
 Cancelación de la suscripción de los adiestradores
 
 
-CENTRARSE EN LA FUNCIONALIDAD DEL ADIESTRADOR
-
-
 Powerpoint-> Historias Usuario-> Requisitos funcionales/no funcionales
-
-SVG repo para simbolicos
-
-
-
-
-Quitar llamada múltiple de grupo a la sesión de perros
-
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!No hacer powerpoint, hacer html!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
