@@ -13,6 +13,10 @@ Revisar TFG:
 Revisa esos enlaces y antes de ponerme una citación, sitúame y ponme en contexto.
 Tamaños de imagen (ancho) lo más parecido posible.
 
+
+
+
+
 Interfaz:
 Login y barra de navegacion (ref: hablaconellos)
 Incluir 'venta del producto' (quiénes somos, a qué nos dedicamos...)
@@ -20,6 +24,7 @@ Login: ventana modal o poner boton volver
 Cookies en la aplicación y NO en la landing page
 Recursos: abrir tareas para el adiestrador con limitación de tamaño
 Cancelación de la suscripción de los adiestradores
+Imágenes a webp (lighter)
 
 
 Powerpoint-> Historias Usuario-> Requisitos funcionales/no funcionales
