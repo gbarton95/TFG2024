@@ -6,9 +6,6 @@ Dudas:
 
 
 
-[[Aunque algunas personas encuentran desacertada la comparación entre niños y perros, como titulada tanto en magisterio como en educación canina me parece que hay una correlación directa que confluye en la empatía, el interés por el bienestar ajeno, el respeto a un ser más vulnerable y diferente, la capacidad de autocrítica o la gestión emocional, entre otros aspectos.]]
-[[Todos los perros pueden ser entrenados y educados en la medida de sus capacidades. La educación es un proceso, no un objetivo, y no hay ningún perro que no pueda beneficiarse de ella.]]
-
 Revisar TFG:
 Revisa esos enlaces y antes de ponerme una citación, sitúame y ponme en contexto.
 Tamaños de imagen (ancho) lo más parecido posible.
@@ -28,3 +25,12 @@ Imágenes a webp (lighter)
 
 
 Powerpoint-> Historias Usuario-> Requisitos funcionales/no funcionales
+
+
+
+
+
+
+
+[[Aunque algunas personas encuentran desacertada la comparación entre niños y perros, como titulada tanto en magisterio como en educación canina me parece que hay una correlación directa que confluye en la empatía, el interés por el bienestar ajeno, el respeto a un ser más vulnerable y diferente, la capacidad de autocrítica o la gestión emocional, entre otros aspectos.]]
+[[Todos los perros pueden ser entrenados y educados en la medida de sus capacidades. La educación es un proceso, no un objetivo, y no hay ningún perro que no pueda beneficiarse de ella.]]
