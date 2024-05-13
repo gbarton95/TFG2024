@@ -1,8 +1,31 @@
 Dudas:
-- Anexos. ¿Cabecera? ¿Formato?
-- Pliego de condiciones == Condiciones de contratación???
-- ¿Espaciado 1,5?
+- Espaciado 1,5 --> PARA INDICE
 
+PENDIENTE:
+Requisitos??
+Tarea III
+CAMBIAR RELACION TABLAS
+
+
+
+
+DEBERES:
+
+"Back":
+Vista detalle del perro
+Editar sesiones
+APIS??????
+Recordatorio de completar perfil
+Alerta para borrar cosas
+Ordenar tablas
+
+Interfaz:
+Mejorar vista ficheros
+Mejorar interfaz/responsiveness
+
+
+
+"La forma más sencilla de hacer que el sistema recuerde el idioma del usuario es utilizando cookies o sesiones en tu aplicación web.">>Language Middleware
 
 
 
@@ -11,11 +34,7 @@ Revisa esos enlaces y antes de ponerme una citación, sitúame y ponme en contex
 Tamaños de imagen (ancho) lo más parecido posible.
 
 
-
-
-
 Interfaz:
-Login y barra de navegacion (ref: hablaconellos)
 Incluir 'venta del producto' (quiénes somos, a qué nos dedicamos...)
 Login: ventana modal o poner boton volver
 Cookies en la aplicación y NO en la landing page
