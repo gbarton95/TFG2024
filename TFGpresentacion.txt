@@ -1,23 +1,41 @@
+Quién soy		Soy Gabriela, soy desarrolladora web y adiestradora
+Qué presento		y vengo a presentar mi proyecto de fin de grado, "Kandog", una aplicación para adiestradores
+Por qué			Situación actual de los perros: Muchos perros, cada vez más profesionales. No hay recursos
+Para qué sirve		Para ayudar al adiestrador en su ejercicio diario
+Cómo lo he hecho	Laravel (PHP), Bootstrap, VisualStudio Code, XAMPP, Git/Github
+Demo			Vamos a ver algunas de las cosas que se pueden hacer
+Más			Qué me hubiera gustado incluir
+Adiós			Gracias, preguntas
+
+
+
+
+
+
+
+
+
 Dudas:
 - Espaciado 1,5 --> PARA INDICE
+- Interlineado 1-1,15???
+
+
+API - google documents
+	- dropbox (papers/writers)
+	- editores
+
 
 PENDIENTE:
-Requisitos??
-Tarea III
-CAMBIAR RELACION TABLAS
-
+Putas pruebas funcionales
+Colecciones no duplicadas >> nombre
+Propietarios no duplicados >> (nombre + perro +) teléfono
 
 
 
 DEBERES:
 
 "Back":
-Vista detalle del perro
-Editar sesiones
-APIS??????
 Recordatorio de completar perfil
-Alerta para borrar cosas
-Ordenar tablas
 
 Interfaz:
 Mejorar vista ficheros
@@ -25,28 +43,10 @@ Mejorar interfaz/responsiveness
 
 
 
-"La forma más sencilla de hacer que el sistema recuerde el idioma del usuario es utilizando cookies o sesiones en tu aplicación web.">>Language Middleware
-
-
-
-Revisar TFG:
-Revisa esos enlaces y antes de ponerme una citación, sitúame y ponme en contexto.
-Tamaños de imagen (ancho) lo más parecido posible.
-
-
 Interfaz:
 Incluir 'venta del producto' (quiénes somos, a qué nos dedicamos...)
 Login: ventana modal o poner boton volver
 Cookies en la aplicación y NO en la landing page
-Recursos: abrir tareas para el adiestrador con limitación de tamaño
-Cancelación de la suscripción de los adiestradores
-Imágenes a webp (lighter)
-
-
-Powerpoint-> Historias Usuario-> Requisitos funcionales/no funcionales
-
-
-
 
 
 
